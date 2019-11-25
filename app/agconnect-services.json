@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"10086000000000293",
+		"product_id":"9105385871708158585",
+		"client_id":"210517358106640384",
+		"client_secret":"923478B5757C5746FC15D7906CC88B018DEC9F843058573BBBA9D6A84469915A",
+		"app_id":"101238293",
+		"package_name":"com.huawei.gmsandhmsdemo"
+	},
+	"configuration_version":"1.0"
+}
